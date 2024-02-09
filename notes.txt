@@ -1,0 +1,14 @@
+backend basically done
+
+added portfolio tracking for stocks
+sortino, sharpe, alpha, beta, volatility calculated
+(need % return probably)
+
+added current account tracking
+log income, expenses
+make future predictions with linear regression about income
+
+
+tomorrow: create frontend
+
+not doing auth probably
